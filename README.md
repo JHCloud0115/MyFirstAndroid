@@ -1,1 +1,1 @@
-# MyFirstAndroid
+# 모각코_내 생애 첫 안드로이드 with 코틀린
